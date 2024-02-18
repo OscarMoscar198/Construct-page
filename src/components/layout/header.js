@@ -70,7 +70,7 @@ function Header() {
                                             alt="Phone"
                                         />
                                         <Link href="tel://01225-265-847">
-                                            +52 961-177-7586
+                                            +52 8181140986
                                         </Link>
                                     </div>
                                     <div className={classes.time_schedule}>
@@ -149,15 +149,83 @@ function Header() {
                                                 <span>Inicio</span>
                                             </Link>
                                         </li>
-                                        <li>
+                                        <li className={classes.dropdown_holder}>
                                             <Link href="/about">
                                                 <span>Nosotros</span>
                                             </Link>
+                                            <ul
+                                                className={
+                                                    classes.dropdown_menu
+                                                }
+                                            >
+                                                <li>
+                                                    <Link href="/about">
+                                                        Filosofía
+                                                    </Link>
+                                                </li>
+                                                <li>
+                                                    <Link href="/about">
+                                                        Equipamiento
+                                                    </Link>
+                                                </li>
+                                                <li>
+                                                    <Link href="/about">
+                                                        Organigrama
+                                                    </Link>
+                                                </li>
+                                            </ul>
                                         </li>
-                                        <li>
+                                        <li className={classes.dropdown_holder}>
                                             <Link href="/services">
                                                 <span>Servicio</span>
                                             </Link>
+                                            <ul
+                                                className={
+                                                    classes.dropdown_menu
+                                                }
+                                            >
+                                                <li>
+                                                    <Link href="/services">
+                                                        Arquitectura
+                                                    </Link>
+                                                </li>
+                                                <li>
+                                                    <Link href="/services">
+                                                        Ingeniería
+                                                    </Link>
+                                                </li>
+                                                <li>
+                                                    <Link href="/services">
+                                                        Iluminación
+                                                    </Link>
+                                                </li>
+                                                <li>
+                                                    <Link href="/services">
+                                                        Refrigeración y Equipos
+                                                    </Link>
+                                                </li>
+                                                <li>
+                                                    <Link href="/services">
+                                                        Instalaciones Eléctricas
+                                                    </Link>
+                                                </li>
+                                                <li>
+                                                    <Link href="/services">
+                                                        Montajes Estructurales
+                                                    </Link>
+                                                </li>
+                                                <li>
+                                                    <Link href="/services">
+                                                        Obra Civil
+                                                    </Link>
+                                                </li>
+                                                <li>
+                                                    <Link href="/services">
+                                                        Instalaciones
+                                                        Hidrosanitarias
+                                                    </Link>
+                                                </li>
+                                            </ul>
                                         </li>
                                         <li className={classes.dropdown_holder}>
                                             <Link href="/projects/project-fullwidth">
@@ -170,24 +238,29 @@ function Header() {
                                             >
                                                 <li>
                                                     <Link href="/projects/project-2-columns">
-                                                        Project 2 Columns
+                                                        Proyecto 01
                                                     </Link>
                                                 </li>
                                                 <li>
                                                     <Link href="/projects/project-gallery">
-                                                        Galeria de Proyectos
+                                                        Proyecto 02
                                                     </Link>
                                                 </li>
                                                 <li>
                                                     <Link href="/projects/project-slider">
-                                                        Slider de Proyectos
+                                                        Proyecto 03
+                                                    </Link>
+                                                </li>
+                                                <li>
+                                                    <Link href="/projects/project-slider">
+                                                        Proyecto 04
                                                     </Link>
                                                 </li>
                                             </ul>
                                         </li>
                                         <li className={classes.dropdown_holder}>
                                             <Link href="/">
-                                                <span>Paginas</span>
+                                                <span>Clientes</span>
                                             </Link>
                                             <ul
                                                 className={
@@ -196,22 +269,17 @@ function Header() {
                                             >
                                                 <li>
                                                     <Link href="/our-clients">
-                                                        Nuestros Clientes
+                                                        Empresas
                                                     </Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="/our-team">
-                                                        Nuestro Equipo
-                                                    </Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="/our-working-process">
-                                                        Nuestro proceso
+                                                    <Link href="/our-clients">
+                                                        Particulares
                                                     </Link>
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li className={classes.dropdown_holder}>
+                                        {/* <li className={classes.dropdown_holder}>
                                             <Link href="/blogs/blog-fullwidth">
                                                 <span>Blogs</span>
                                             </Link>
@@ -231,7 +299,7 @@ function Header() {
                                                     </Link>
                                                 </li>
                                             </ul>
-                                        </li>
+                                        </li> */}
                                         <li className={classes.separator}>
                                             <Link href="/contact">
                                                 <span>Contacto</span>
@@ -244,7 +312,7 @@ function Header() {
                                                     : 'search-hide'
                                             }`}
                                         >
-                                            <buton
+                                            {/* <buton
                                                 className={classes.search__btn}
                                                 onClick={SearchToggle}
                                             >
@@ -263,7 +331,7 @@ function Header() {
                                                 >
                                                     <FaSearch />
                                                 </button>
-                                            </form>
+                                            </form> */}
                                         </li>
                                     </ul>
                                 </nav>
