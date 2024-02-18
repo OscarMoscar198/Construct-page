@@ -35,8 +35,8 @@ function AboutPage({
                 />
             </Head>
             <Breadcrumb
-                subTitle="What we do"
-                title="About us"
+                subTitle="Que Hacemos"
+                title="Sobre Nosotros"
                 desc="Construction of itself, because it is pain some proper style design occur are pleasure"
             />
             <AboutOne aboutItems={aboutItems} />

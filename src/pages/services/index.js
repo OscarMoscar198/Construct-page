@@ -34,8 +34,8 @@ function ServicePage({
                 />
             </Head>
             <Breadcrumb
-                subTitle="What we do"
-                title="Our Services"
+                subTitle="Que Hacemos"
+                title="Nuestros Servicios"
                 desc="Construction of itself, because it is pain some proper style design occur are pleasure"
             />
             <AboutTwo aboutItemsTwo={aboutItemsTwo} />

@@ -28,8 +28,8 @@ function OurClients({
                 />
             </Head>
             <Breadcrumb
-                subTitle="Our Clients"
-                title="Happy Clients"
+                subTitle="Nuestros Clientes"
+                title="Clientes Satifechos"
                 desc="Construction of itself, because it is pain some proper style design occur are pleasure"
             />
             <BrandTwo brandItems={brandItems} />

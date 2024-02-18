@@ -25,7 +25,7 @@ function ServiceDetailsPage({
                 />
             </Head>
             <Breadcrumb
-                subTitle="Single Service"
+                subTitle="Servicio Unitario"
                 title={service.title}
                 desc="Construction of itself, because it is pain some proper style design occur are pleasure"
             />

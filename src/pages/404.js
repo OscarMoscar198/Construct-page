@@ -17,7 +17,7 @@ function Error404Page({ newsletterItems, footerItems }) {
                 />
             </Head>
             <Breadcrumb
-                subTitle="Not Found"
+                subTitle="No Encontrado"
                 title="404"
                 desc="Construction of itself, because it is pain some proper style design occur are pleasure"
             />
