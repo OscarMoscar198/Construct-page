@@ -14,9 +14,9 @@ function Error404() {
                                 <span>Lo sentimos,</span> pagina no encotrada!
                             </h2>
                             <p className={classes.desc}>
-                                Parece que no hay nada aquí.
-                                Prueba algo más o regresa a la
-                                pagina de inicio con el botón de abajo!
+                                Parece que no hay nada aquí. Prueba algo más o
+                                regresa a la pagina de inicio con el botón de
+                                abajo!
                             </p>
                             <div className={`${classes.btn_wrap}`}>
                                 <Link

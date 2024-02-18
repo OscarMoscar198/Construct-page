@@ -4,12 +4,16 @@ footerLogo: '/images/logo/white.png'
 footerLogoAlt: 'Footer Logo'
 excerpt: 'Construction of itself, because it is are  <br/> but because some proper style design is occur in toil and pain pleasure'
 inquary: 'Consultas:'
-inquaryNumber: '+52 961-177-7586'
+inquaryNumber: '+52 8181140986'
 informationTitle: 'Informacion'
 informationList:
     [
         { id: 'informationList-01', title: 'Nosotros', path: 'about' },
-        { id: 'informationList-02', title: 'Nuestros Servicios', path: 'services' },
+        {
+            id: 'informationList-02',
+            title: 'Nuestros Servicios',
+            path: 'services',
+        },
         {
             id: 'informationList-03',
             title: 'Proyectos Recientes',
@@ -21,8 +25,16 @@ informationList:
 quickLinkTitle: 'Enlaces rapidos'
 quickLinkList:
     [
-        { id: 'quickLinkList-01', title: 'Atencion al Cliente', path: 'contact' },
-        { id: 'quickLinkList-02', title: 'Ofertas y Promociones', path: 'about' },
+        {
+            id: 'quickLinkList-01',
+            title: 'Atencion al Cliente',
+            path: 'contact',
+        },
+        {
+            id: 'quickLinkList-02',
+            title: 'Ofertas y Promociones',
+            path: 'about',
+        },
         {
             id: 'quickLinkList-03',
             title: 'Terminos y condiciones',
@@ -32,8 +44,8 @@ quickLinkList:
         { id: 'quickLinkList-05', title: 'Clients & Reviews', path: 'about' },
     ]
 contactInfoTitle: 'Informacion de Contacto'
-widgetAddress: 'C 4ª PONIENTE NORTE 127 BARRIO SAN MARCOS 29130, <span class="text-primary">BERRIOZABAL, CHIAPAS</span>'
-widgetNumber: '+52 961-177-7586'
+widgetAddress: 'Retorno 2 Nº 2648 Col. Burocratas Federales | C.P. 64380, <span class="text-primary">Monterrey N.L. México</span>'
+widgetNumber: '+52 8181140986'
 #additionWidgetAddress: '75, Victoriya Street, New Town Park Road, <span class="text-primary">Sydney, Australia</span>'
 #additionWidgetNumber: '+98745 258 102 / +98745 612 301'
 socialList:

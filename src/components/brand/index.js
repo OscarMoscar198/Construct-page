@@ -59,7 +59,9 @@ function BrandOne({ brandItems, settings }) {
         },
     };
     return (
-        <div className={`${classes.bg} ${classes.space__top} ${classes.space__bottom}`}>
+        <div
+            className={`${classes.bg} ${classes.space__top} ${classes.space__bottom}`}
+        >
             <Container>
                 <SwiperComps settings={settings}>
                     {brandItems?.map((brandItem) => (
