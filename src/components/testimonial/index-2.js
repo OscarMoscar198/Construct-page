@@ -48,7 +48,7 @@ function TestimonialTwo({
     };
     return (
         <div className={`${classes.area} ${classes.y_axis__140}`}>
-            <Container>
+            {/* <Container>
                 <Row className="g-30">
                     {testimonialSectionItems?.map((item) => (
                         <Col
@@ -141,7 +141,7 @@ function TestimonialTwo({
                         </SwiperComps>
                     </Col>
                 </Row>
-            </Container>
+            </Container> */}
         </div>
     );
 }

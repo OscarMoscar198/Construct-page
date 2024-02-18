@@ -53,7 +53,7 @@ function Testimonial({ testimonialItems, testimonialSectionItems, settings }) {
     };
     return (
         <div className={classes.area}>
-            <Container>
+            {/* <Container>
                 <Row className="g-4">
                     {testimonialSectionItems?.map((item) => (
                         <Col
@@ -146,7 +146,7 @@ function Testimonial({ testimonialItems, testimonialSectionItems, settings }) {
                         </SwiperComps>
                     </Col>
                 </Row>
-            </Container>
+            </Container> */}
         </div>
     );
 }

@@ -26,8 +26,8 @@ infoList: [
         {
             id: 'infoList-03',
             listText: 'Email:',
-            path: 'mailto://info@example.com',
-            listValue: 'info@example.com',
+            path: 'mailto://reichstag.edificaciones@gmail.com',
+            listValue: 'reichstag.edificaciones@gmail.com',
         },
         # {
         #     id: 'infoList-04',
@@ -36,7 +36,7 @@ infoList: [
         #     listValue: 'www.example.com',
         # },
     ]
-btnText: 'Submit'
+btnText: 'Enviar'
 formTitle: 'Deja un mensaje'
 formDesc: 'El paquete de construcción mejor valorado que obtenemos con placer es simple y fácil de usar.'
 mapPattern: '/images/contact/pattern.png'
