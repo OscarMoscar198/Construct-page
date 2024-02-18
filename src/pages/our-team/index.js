@@ -11,15 +11,17 @@ function OurClients({ teamItemsTwo, newsletterItems, footerItems }) {
     return (
         <>
             <Head>
-                <title>Our Team - Oxybuild</title>
+                <title>
+                    Nuestro Equipo - Reichstag, Edificaciones S.A. de C.V.
+                </title>
                 <meta
                     name="description"
                     content="OxyBuild - Construction React Next JS Template Industry, Products Manufacturing Company, building companies, architecture firms, and the like can take to their advantage by using OxyBuild - Construction React Next JS Template."
                 />
             </Head>
             <Breadcrumb
-                subTitle="Our Team"
-                title="Professional"
+                subTitle="Nuestro Equipo"
+                title="Profesional"
                 desc="Construction of itself, because it is pain some proper style design occur are pleasure"
             />
             <TeamTwo teamItemsTwo={teamItemsTwo} />

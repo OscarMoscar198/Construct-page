@@ -10,15 +10,15 @@ function ContactPage({ contactItems, newsletterItems, footerItems }) {
     return (
         <>
             <Head>
-                <title>Contact - Oxybuild</title>
+                <title>Contacto - Reichstag, Edificaciones S.A. de C.V.</title>
                 <meta
                     name="description"
-                    content="OxyBuild - Construction React Next JS Template Industry, Products Manufacturing Company, building companies, architecture firms, and the like can take to their advantage by using OxyBuild - Construction React Next JS Template."
+                    content="Reichstag, Edificaciones S.A. de C.V., está listo para llevar la excelencia en construcción y diseño a todo México. Con infraestructura disponible en todo el país, hemos ejecutado obras destacadas en municipios como Monterrey y estados como Nuevo León y Coahuila. ¡Contáctenos y déjenos hacer realidad su visión!"
                 />
             </Head>
             <Breadcrumb
-                subTitle="Contact us"
-                title="Get in Touch"
+                subTitle="Contactanos"
+                title="Ponte en Contacto"
                 desc="Construction of itself, because it is pain some proper style design occur are pleasure"
             />
             <Contact contactItems={contactItems} />

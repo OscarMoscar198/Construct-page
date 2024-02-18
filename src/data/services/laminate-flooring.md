@@ -1,6 +1,6 @@
 ---
 id: 'service-04'
-title: 'Laminate Flooring'
+title: 'Refrigeración y Equipos'
 mediumImage: 'laminate-flooring-md.jpg'
 largeImage: 'laminate-flooring-lg.jpg'
 detailBreadcrumbSubTitle: 'Single Service'

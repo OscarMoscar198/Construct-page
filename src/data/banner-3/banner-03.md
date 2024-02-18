@@ -1,6 +1,6 @@
 ---
 id: 'banner-03'
-title: 'Our Values'
+title: 'Nuestros Valores'
 excerpt: 'Top rated construction packages we provide page editors now use Lorem as their default model text'
 path: '/projects'
 dataCount: '03'

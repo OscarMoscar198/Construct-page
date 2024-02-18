@@ -11,7 +11,7 @@ experienceYear: '25'
 ourProgress: 'Años de <span>Experiencia</span>'
 experienceImage: '/images/about/avatar.png'
 experienceAlt: 'Avatar'
-aboutSubtitle: 'Provide the best Constructing services for our client with their satisfaction'
+aboutSubtitle: 'Proporcionando los mejores servicios de construcción para nuestros clientes con su satisfacción.'
 aboutDesc: 'Construyendo no solo estructuras, sino legados. Nuestro equipo prospera no solo en experiencia, sino también en pasión, convirtiendo los desafíos en logros. Descubre algunas de las características principales que nos definen.'
 listItem:
     [

@@ -1,6 +1,6 @@
 ---
 id: 'service-03'
-title: 'Construction'
+title: 'Iluminación'
 mediumImage: 'construction-md.jpg'
 largeImage: 'construction-lg.jpg'
 detailBreadcrumbSubTitle: 'Single Service'

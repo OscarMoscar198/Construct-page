@@ -23,8 +23,7 @@ informationList:
         { id: 'informationList-05', title: 'Contactanos', path: 'contact' },
     ]
 quickLinkTitle: 'Enlaces rapidos'
-quickLinkList:
-    [
+quickLinkList: [
         {
             id: 'quickLinkList-01',
             title: 'Atencion al Cliente',
@@ -41,7 +40,7 @@ quickLinkList:
             path: 'contact',
         },
         { id: 'quickLinkList-04', title: 'Cotizaciones', path: 'contact' },
-        { id: 'quickLinkList-05', title: 'Clients & Reviews', path: 'about' },
+        # { id: 'quickLinkList-05', title: 'Clients & Reviews', path: 'about' },
     ]
 contactInfoTitle: 'Informacion de Contacto'
 widgetAddress: 'Retorno 2 Nº 2648 Col. Burocratas Federales | C.P. 64380, <span class="text-primary">Monterrey N.L. México</span>'

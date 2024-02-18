@@ -27,10 +27,10 @@ function ServicePage({
     return (
         <>
             <Head>
-                <title>Services - Oxybuild</title>
+                <title>Servicios - Reichstag, Edificaciones S.A. de C.V.</title>
                 <meta
                     name="description"
-                    content="OxyBuild - Construction React Next JS Template Industry, Products Manufacturing Company, building companies, architecture firms, and the like can take to their advantage by using OxyBuild - Construction React Next JS Template."
+                    content="Reichstag, Edificaciones S.A. de C.V., ofrece una gama completa de servicios, desde instalaciones eléctricas hasta montajes estructurales, obra civil e instalaciones hidrosanitarias. Nuestro compromiso con la calidad y la eficiencia se refleja en cada detalle. Confié en nosotros para llevar su proyecto al siguiente nivel."
                 />
             </Head>
             <Breadcrumb

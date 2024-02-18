@@ -40,7 +40,7 @@ function HomePage({
                 <title>Reichstag Edificaciones S.A DE C.V</title>
                 <meta
                     name="description"
-                    content="OxyBuild - Construction React Next JS Template Industry, Products Manufacturing Company, building companies, architecture firms, and the like can take to their advantage by using OxyBuild - Construction React Next JS Template."
+                    content="Descubra el mundo de la excelencia en construcción y diseño arquitectónico con Reichstag, Edificaciones S.A. de C.V. Comprometidos con la calidad y el servicio, ofrecemos soluciones innovadoras para sus proyectos. Su satisfacción es nuestra meta principal. ¡Explore nuestro portafolio ahora!"
                 />
             </Head>
             <Hero heroItems={heroItems} />

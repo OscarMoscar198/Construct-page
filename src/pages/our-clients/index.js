@@ -19,10 +19,12 @@ function OurClients({
     return (
         <>
             <Head>
-                <title>Our Clients - Oxybuild</title>
+                <title>
+                    Proyecto Clientes - Reichstag, Edificaciones S.A. de C.V.
+                </title>
                 <meta
                     name="description"
-                    content="OxyBuild - Construction React Next JS Template Industry, Products Manufacturing Company, building companies, architecture firms, and the like can take to their advantage by using OxyBuild - Construction React Next JS Template."
+                    content="Celebre el éxito junto a nosotros. En Reichstag, hemos colaborado con instituciones públicas y privadas, gobiernos estatales y municipales, así como proyectos particulares. Año tras año, ampliamos nuestra lista de clientes selectos, trabajando con dedicación para dejar una marca de excelencia en cada proyecto."
                 />
             </Head>
             <Breadcrumb

@@ -26,10 +26,12 @@ function AboutPage({
     return (
         <>
             <Head>
-                <title>About Us - Oxybuild</title>
+                <title>
+                    Sobre Nosotros - Reichstag, Edificaciones S.A. de C.V.
+                </title>
                 <meta
                     name="description"
-                    content="OxyBuild - Construction React Next JS Template Industry, Products Manufacturing Company, building companies, architecture firms, and the like can take to their advantage by using OxyBuild - Construction React Next JS Template."
+                    content="En Reichstag, nos enorgullece presentar a nuestro equipo altamente capacitado en arquitectura, ingeniería, iluminación y refrigeración. Con una filosofía centrada en la calidad y el compromiso total con cada proyecto, garantizamos resultados óptimos y tiempos de entrega impecables. Descubra cómo podemos hacer realidad sus ideas."
                 />
             </Head>
             <Breadcrumb

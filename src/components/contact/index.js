@@ -82,7 +82,7 @@ function Contact({ contactItems }) {
                                             type="text"
                                             name="name"
                                             id="name"
-                                            placeholder="Your Name*"
+                                            placeholder="Tu nombre*"
                                             required
                                             className={`${classes.form_input__field} me-30`}
                                         />
@@ -90,7 +90,7 @@ function Contact({ contactItems }) {
                                             type="email"
                                             name="email"
                                             id="email"
-                                            placeholder="Your Email*"
+                                            placeholder="Tu Email*"
                                             required
                                             className={
                                                 classes.form_input__field
@@ -99,7 +99,7 @@ function Contact({ contactItems }) {
                                     </div>
                                     <textarea
                                         type="text"
-                                        placeholder="Message"
+                                        placeholder="Mensaje"
                                         className={`${classes.form_textarea__field} mt-30`}
                                     />
                                     <div className={classes.form_btn__wrap}>

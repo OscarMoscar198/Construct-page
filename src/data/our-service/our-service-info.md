@@ -1,6 +1,6 @@
 ---
 id: 'our-service-01'
-projectContentTitle: 'Project Content'
+projectContentTitle: 'Contenido de Proyecto'
 projectContentDesc: 'Top rated construction packages we pleasure rationally encounter consequences interesting who loves or pursues or desires to obtain'
 listItem:
     [
@@ -20,7 +20,7 @@ listItem:
             text: 'Construction of itself, because it is pain, proper style design occur pleasure',
         },
     ]
-projectAnalysisTitle: 'Project Analysis'
+projectAnalysisTitle: 'Analisis de Proyecto'
 projectAnalysisDesc: 'Top rated construction packages we pleasure rationally encounter consequences interesting who loves or pursues or desires to obtain'
 additionDescOne: 'Top rated construction packages we pleasure rationally encounter consequences interesting who loves or pursues or desires to obtain'
 additionDescTwo: 'Top rated construction packages we pleasure rationally encounter consequences'
@@ -30,17 +30,17 @@ listItemTwo:
     [
         {
             id: 'listItemTwo-01',
-            primaryText: '01. Architectural Design',
+            primaryText: '01. Diseño arquitectonico',
             text: 'of itself ,because proper style design occur pleasure',
         },
         {
             id: 'listItemTwo-02',
-            primaryText: '02. Construction work',
+            primaryText: '02. Trabajo de construccion',
             text: 'itself, because pain, proper style design occur pleasure',
         },
         {
             id: 'listItemTwo-03',
-            primaryText: '03. Finish work',
+            primaryText: '03. Finalizacion de trabajo',
             text: 'and hand over some of proper style design occur pleasure',
         },
     ]

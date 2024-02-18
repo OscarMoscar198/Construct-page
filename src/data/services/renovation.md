@@ -1,6 +1,6 @@
 ---
 id: 'service-06'
-title: 'Renovation'
+title: 'Montajes Estructurales'
 mediumImage: 'renovation-md.jpg'
 largeImage: 'renovation-lg.jpg'
 detailBreadcrumbSubTitle: 'Single Service'

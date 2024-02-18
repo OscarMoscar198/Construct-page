@@ -1,6 +1,6 @@
 ---
 id: 'banner-04'
-title: 'Hand over <br/> Project'
+title: 'Entregar el <br/> Proyecto'
 excerpt: 'Meeting with our clients for all requirements for this project we start now'
 path: '/projects'
 dataCount: '04'
