@@ -47,8 +47,7 @@ widgetAddress: 'Retorno 2 Nº 2648 Col. Burocratas Federales | C.P. 64380, <span
 widgetNumber: '+52 8181140986'
 #additionWidgetAddress: '75, Victoriya Street, New Town Park Road, <span class="text-primary">Sydney, Australia</span>'
 #additionWidgetNumber: '+98745 258 102 / +98745 612 301'
-socialList:
-    [
+socialList: [
         {
             id: 'socialList-01',
             socialIcon: 'FaFacebookF',
@@ -56,13 +55,13 @@ socialList:
         },
         {
             id: 'socialList-02',
-            socialIcon: 'FaTwitter',
+            socialIcon: 'FaLinkedinIn',
             path: 'https://www.example.com',
         },
-        {
-            id: 'socialList-03',
-            socialIcon: 'FaInstagram',
-            path: 'https://www.example.com',
-        },
+        # {
+        #     id: 'socialList-03',
+        #     socialIcon: 'FaInstagram',
+        #     path: 'https://www.example.com',
+        # },
     ]
 ---

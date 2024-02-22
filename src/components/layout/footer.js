@@ -167,7 +167,8 @@ function Footer({ footerItems }) {
                                     <div className={classes.copyright}>
                                         <span className={classes.text}>
                                             © {new Date().getFullYear()}{' '}
-                                            Reichstag All Rights Reserved.
+                                            Reichstag Todos los Derechos
+                                            Reservados.
                                         </span>
                                     </div>
                                 </Col>
