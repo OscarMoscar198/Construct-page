@@ -1,8 +1,8 @@
 ---
-title: 'Overpass Road'
-image: 'overpass-road.jpg'
-subTitle: 'ARCHITECTURE'
-duration: 'Duration: 24 month'
+title: 'CAMINO DEL KM 0+000 AL KM 7+200'
+image: 'camino_alamo.jpg'
+subTitle: 'CONSTRUCCION'
+duration: 'ALAMO, VERACRUZ.'
 breadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 groupImageOne: '/images/project-detail/1-1-226x245.jpg'
 groupImageTwo: '/images/project-detail/1-2-222x245.jpg'

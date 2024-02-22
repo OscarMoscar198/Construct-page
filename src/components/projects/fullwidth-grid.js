@@ -30,14 +30,14 @@ function ProjectFullwidthGrid({ projects }) {
                             className={classes.loadmore_btn}
                             onClick={loadMore}
                         >
-                            Load more
+                            Cargar más
                         </button>
                     </div>
                 )}
                 {noOfElement > projects.length && (
                     <div className={classes.project_btn__wrap}>
                         <span className={classes.loadedText}>
-                            All item has been loaded!
+                            Todos los proyectos cargados!
                         </span>
                     </div>
                 )}

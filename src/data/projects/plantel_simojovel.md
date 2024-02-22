@@ -1,8 +1,8 @@
 ---
-title: 'Midland Highway'
-image: 'midland-highway.jpg'
-subTitle: 'ARCHITECTURE'
-duration: 'Duration: 29 month'
+title: 'PLANTEL ESCUELA GOROZTIZA'
+image: 'plantel_simojovel.jpg'
+subTitle: 'CONSTRUCCION'
+duration: 'LA PIMIENTA, SIMOJOVEL, CHIAPAS.'
 breadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 groupImageOne: '/images/project-detail/1-1-226x245.jpg'
 groupImageTwo: '/images/project-detail/1-2-222x245.jpg'

@@ -1,8 +1,8 @@
 ---
-title: 'Duplex House'
-image: 'duplex-house.jpg'
-subTitle: 'RENOVATION'
-duration: 'Duration: 08 month'
+title: 'PLATAFORMAS PARA CASA HABITACION'
+image: 'plataformas_queretaro.jpg'
+subTitle: 'CONSTRUCCION'
+duration: 'QUERETARO, QUERETARO.'
 breadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 groupImageOne: '/images/project-detail/1-1-226x245.jpg'
 groupImageTwo: '/images/project-detail/1-2-222x245.jpg'

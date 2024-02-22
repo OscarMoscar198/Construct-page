@@ -1,8 +1,8 @@
 ---
-title: 'Calton Bridge'
-image: 'calton-bridge.jpg'
-subTitle: 'CONSTRUCTION'
-duration: 'Duration: 24 month'
+title: 'MONTE DE PIEDAD'
+image: 'montedepiedad_queretaro.jpg'
+subTitle: 'CONSTRUCCION'
+duration: 'SANTIAGO DE QUERETARO, QUERETARO.'
 breadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 groupImageOne: '/images/project-detail/1-1-226x245.jpg'
 groupImageTwo: '/images/project-detail/1-2-222x245.jpg'

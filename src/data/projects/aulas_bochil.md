@@ -1,8 +1,8 @@
 ---
-title: 'Haven Valley'
-image: 'haven-valley.jpg'
-subTitle: 'ARCHITECTURE'
-duration: 'Duration: 24 month'
+title: 'CANCHA Y DOMO'
+image: 'aulas_bochil.jpg'
+subTitle: 'CONSTRUCCION'
+duration: 'ESCUELA FRANCISCO VILLA'
 breadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 groupImageOne: '/images/project-detail/1-1-226x245.jpg'
 groupImageTwo: '/images/project-detail/1-2-222x245.jpg'
