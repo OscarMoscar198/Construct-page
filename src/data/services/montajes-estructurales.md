@@ -1,8 +1,8 @@
 ---
 id: 'service-06'
 title: 'Montajes Estructurales'
-mediumImage: 'renovation-md.jpg'
-largeImage: 'renovation-lg.jpg'
+mediumImage: 'montajes_estructurales_med.jpg'
+largeImage: 'montajes_estructurales_gde.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Provide the best Constructin services for our client with their satisfaction we have expert team, modern equipments and quality materials'

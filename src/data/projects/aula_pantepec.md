@@ -1,5 +1,5 @@
 ---
-title: 'AULA ARDIN DE NIÑOS GONZALEZ BOCANEGRA'
+title: 'AULA JARDIN DE NIÑOS GONZALEZ BOCANEGRA'
 image: 'aula_pantepec.jpg'
 subTitle: 'CONSTRUCCION'
 duration: 'LIQUIDAMBAR, PANTEPEC, CHIAPAS.'
