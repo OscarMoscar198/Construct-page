@@ -41,7 +41,6 @@
             }
         ],
         "react/react-in-jsx-scope": 0,
-
         /* Base */
         "import/prefer-default-export": 0,
         "no-console": 0,
@@ -69,7 +68,7 @@
                 }
             }
         ],
-
+        "jsx-a11y/control-has-associated-label": "off", // Desactivar la regla
         /* Prettier */
         "prettier/prettier": [
             "warn",
@@ -79,7 +78,6 @@
                 "prefer-arrow-callback": "off"
             }
         ],
-
         /* React */
         "react/jsx-filename-extension": [
             "warn",
