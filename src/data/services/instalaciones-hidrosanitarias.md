@@ -1,8 +1,8 @@
 ---
 id: 'service-08'
 title: 'Instalaciones Hidrosanitarias'
-mediumImage: 'architecture-md.jpg'
-largeImage: 'architecture-lg.jpg'
+mediumImage: 'instalaciones_hidrosanitarias_med.jpg'
+largeImage: 'instalaciones_hidrosanitarias_gde.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Provide the best Constructin services for our client with their satisfaction we have expert team, modern equipments and quality materials'

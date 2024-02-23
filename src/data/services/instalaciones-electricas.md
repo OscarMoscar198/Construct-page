@@ -1,8 +1,8 @@
 ---
-id: 'service-01'
-title: 'Arquitectura'
-mediumImage: 'architecture-md.jpg'
-largeImage: 'architecture-lg.jpg'
+id: 'service-05'
+title: 'Instalaciones Eléctricas'
+mediumImage: 'instalaciones_electricas_med.jpg'
+largeImage: 'instalaciones_electricas_gde.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Provide the best Constructin services for our client with their satisfaction we have expert team, modern equipments and quality materials'

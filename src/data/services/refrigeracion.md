@@ -1,8 +1,8 @@
 ---
-id: 'service-05'
-title: 'Instalaciones Eléctricas'
-mediumImage: 'project-planning-md.jpg'
-largeImage: 'project-planning-lg.jpg'
+id: 'service-04'
+title: 'Refrigeración y Equipos'
+mediumImage: 'refrigeracion_med.jpg'
+largeImage: 'refrigeracion_gde.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Provide the best Constructin services for our client with their satisfaction we have expert team, modern equipments and quality materials'
