@@ -69,8 +69,8 @@ function Header() {
                                             src="/images/header/icon/phone.png"
                                             alt="Phone"
                                         />
-                                        <Link href="tel://01225-265-847">
-                                            +52 8181140986
+                                        <Link href="tel://81 2340 4908">
+                                            +52 81 2340 4908
                                         </Link>
                                     </div>
                                     <div className={classes.time_schedule}>

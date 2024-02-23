@@ -14,14 +14,14 @@ infoList: [
         {
             id: 'infoList-01',
             listText: 'Telefono:',
-            path: 'tel://+52 8181140986',
-            listValue: '+52 8181140986',
+            path: 'tel://+52 81 2340 4908',
+            listValue: '+52 81 2340 4908',
         },
         {
             id: 'infoList-02',
             listText: 'Fax:',
-            path: 'tel://52 8181140986',
-            listValue: '(+52) 8181140986',
+            path: 'tel://52 81 2340 4908',
+            listValue: '(+52) 81 2340 4908',
         },
         {
             id: 'infoList-03',

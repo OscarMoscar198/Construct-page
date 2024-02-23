@@ -4,7 +4,7 @@ footerLogo: '/images/logo/white.png'
 footerLogoAlt: 'Footer Logo'
 excerpt: 'Construction of itself, because it is are  <br/> but because some proper style design is occur in toil and pain pleasure'
 inquary: 'Consultas:'
-inquaryNumber: '+52 8181140986'
+inquaryNumber: '+52 81 2340 4908'
 informationTitle: 'Informacion'
 informationList:
     [
@@ -44,14 +44,14 @@ quickLinkList: [
     ]
 contactInfoTitle: 'Informacion de Contacto'
 widgetAddress: 'Retorno 2 Nº 2648 Col. Burocratas Federales | C.P. 64380, <span class="text-primary">Monterrey N.L. México</span>'
-widgetNumber: '+52 8181140986'
+widgetNumber: '+52 81 2340 4908'
 #additionWidgetAddress: '75, Victoriya Street, New Town Park Road, <span class="text-primary">Sydney, Australia</span>'
 #additionWidgetNumber: '+98745 258 102 / +98745 612 301'
 socialList: [
         {
             id: 'socialList-01',
             socialIcon: 'FaFacebookF',
-            path: 'https://www.example.com',
+            path: 'https://www.facebook.com/profile.php?id=100054494648129',
         },
         {
             id: 'socialList-02',
