@@ -38,7 +38,7 @@ function ServiceDetailsPage({
                 ourServices={ourServices}
                 servicesSidebar={servicesSidebar}
             />
-            <Newsletter newsletterItems={newsletterItems} />
+            {/* <Newsletter newsletterItems={newsletterItems} /> */}
             <Footer footerItems={footerItems} />
         </>
     );

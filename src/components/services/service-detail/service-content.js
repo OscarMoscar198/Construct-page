@@ -9,13 +9,13 @@ function ServiceContent({ service, richTexts, ourServices }) {
 
     return (
         <Col lg={{ span: 9 }} className="pe-lg-45">
-            <div className="banner">
+            {/* <div className="banner">
                 <img
                     className="img-full"
                     src={imagePath}
                     alt={service?.title}
                 />
-            </div>
+            </div> */}
             <div className={classes.content}>
                 <h2 className={classes.title}>{service?.title}</h2>
                 <h3 className={classes.subtitle}>{service?.detailSubTitle}</h3>

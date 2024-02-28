@@ -17,7 +17,7 @@ function OurService({ ourServices }) {
                                 <p className={classes.desc}>
                                     {ourService?.projectContentDesc}
                                 </p>
-                                <ul className={classes.list}>
+                                {/* <ul className={classes.list}>
                                     {ourService?.listItem?.map((singleItem) => {
                                         const CheckIcon =
                                             FaIcons[singleItem.checkIcon];
@@ -42,7 +42,7 @@ function OurService({ ourServices }) {
                                             </li>
                                         );
                                     })}
-                                </ul>
+                                </ul> */}
                             </div>
                         </Col>
                         <Col md={{ span: 6 }}>
@@ -53,14 +53,14 @@ function OurService({ ourServices }) {
                                 <p className={classes.desc}>
                                     {ourService?.projectAnalysisDesc}
                                 </p>
-                                <div className="addition-content">
+                                {/* <div className="addition-content">
                                     <p className={classes.desc}>
                                         {ourService?.additionDescOne}
                                     </p>
                                     <p className={classes.desc}>
                                         {ourService?.additionDescTwo}
                                     </p>
-                                </div>
+                                </div> */}
                             </div>
                         </Col>
                         <Col md={{ span: 6 }}>
@@ -71,7 +71,7 @@ function OurService({ ourServices }) {
                                 <p className={classes.desc}>
                                     {ourService?.projectPlanningDesc}
                                 </p>
-                                <ul
+                                {/* <ul
                                     className={`${classes.list} ${classes.list_02}`}
                                 >
                                     {ourService?.listItemTwo?.map(
@@ -84,10 +84,10 @@ function OurService({ ourServices }) {
                                             </li>
                                         )
                                     )}
-                                </ul>
+                                </ul> */}
                             </div>
                         </Col>
-                        <Col md={{ span: 6 }}>
+                        {/* <Col md={{ span: 6 }}>
                             <div className="our-service-content">
                                 <h2 className={classes.title}>
                                     {ourService?.projectContentTitle}
@@ -119,6 +119,114 @@ function OurService({ ourServices }) {
                                         );
                                     })}
                                 </ul>
+                            </div>
+                        </Col> */}
+                        <Col md={{ span: 6 }}>
+                            <div className="our-service-content">
+                                <h2 className={classes.title}>
+                                    {ourService?.interiorDesignTitle}
+                                </h2>
+                                <p className={classes.desc}>
+                                    {ourService?.interiorDesignDesc}
+                                </p>
+                                {/* <ul className={classes.list}>
+                                    {ourService?.listItem?.map((singleItem) => {
+                                        const CheckIcon =
+                                            FaIcons[singleItem.checkIcon];
+                                        return (
+                                            <li key={singleItem.id}>
+                                                <div
+                                                    className={
+                                                        classes.list_icon
+                                                    }
+                                                >
+                                                    <CheckIcon />
+                                                </div>
+                                                <div
+                                                    className={
+                                                        classes.list_text
+                                                    }
+                                                >
+                                                    <span>
+                                                        {singleItem.text}
+                                                    </span>
+                                                </div>
+                                            </li>
+                                        );
+                                    })}
+                                </ul> */}
+                            </div>
+                        </Col>
+                        <Col md={{ span: 6 }}>
+                            <div className="our-service-content">
+                                <h2 className={classes.title}>
+                                    {ourService?.interiorFinishesTitle}
+                                </h2>
+                                <p className={classes.desc}>
+                                    {ourService?.interiorFinishesDesc}
+                                </p>
+                                {/* <ul className={classes.list}>
+                                    {ourService?.listItem?.map((singleItem) => {
+                                        const CheckIcon =
+                                            FaIcons[singleItem.checkIcon];
+                                        return (
+                                            <li key={singleItem.id}>
+                                                <div
+                                                    className={
+                                                        classes.list_icon
+                                                    }
+                                                >
+                                                    <CheckIcon />
+                                                </div>
+                                                <div
+                                                    className={
+                                                        classes.list_text
+                                                    }
+                                                >
+                                                    <span>
+                                                        {singleItem.text}
+                                                    </span>
+                                                </div>
+                                            </li>
+                                        );
+                                    })}
+                                </ul> */}
+                            </div>
+                        </Col>
+                        <Col md={{ span: 6 }}>
+                            <div className="our-service-content">
+                                <h2 className={classes.title}>
+                                    {ourService?.exteriorFinishesTitle}
+                                </h2>
+                                <p className={classes.desc}>
+                                    {ourService?.exteriorFinishesDesc}
+                                </p>
+                                {/* <ul className={classes.list}>
+                                    {ourService?.listItem?.map((singleItem) => {
+                                        const CheckIcon =
+                                            FaIcons[singleItem.checkIcon];
+                                        return (
+                                            <li key={singleItem.id}>
+                                                <div
+                                                    className={
+                                                        classes.list_icon
+                                                    }
+                                                >
+                                                    <CheckIcon />
+                                                </div>
+                                                <div
+                                                    className={
+                                                        classes.list_text
+                                                    }
+                                                >
+                                                    <span>
+                                                        {singleItem.text}
+                                                    </span>
+                                                </div>
+                                            </li>
+                                        );
+                                    })}
+                                </ul> */}
                             </div>
                         </Col>
                     </Row>

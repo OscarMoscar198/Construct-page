@@ -5,7 +5,8 @@ mediumImage: 'arquitectura-med.jpg'
 largeImage: 'arquitectura-gde.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
-detailSubTitle: 'Provide the best Constructin services for our client with their satisfaction we have expert team, modern equipments and quality materials'
-detailDesc: 'Construction of itself, because it is pain, but because some are proper style design occur in toil and pain pleasure we have a expert team some of the main features pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure...'
+detailSubTitle: 'En Reichstag, la arquitectura es una fusión creativa de estética y funcionalidad, diseñada para transformar visiones en espacios únicos y altamente eficientes.'
+detailDesc: 'En Reichstag Diseño, fusionamos la creatividad con la funcionalidad para dar vida a sus espacios. Nuestra oferta de servicios abarca desde el Diseño Arquitectónico que da forma a las estructuras, hasta el Diseño Urbano que planifica entornos dinámicos y sostenibles. Nos destacamos en el diseño de fachadas integrales, fusionando estética y rendimiento. En el interior, ofrecemos un enfoque completo con el Diseño de Interiores, donde cada detalle cuenta. Además, nuestros Acabados de Interior reflejan elegancia y confort, mientras que los Acabados de Exterior resaltan la armonía con el entorno. Confíe en nosotros para transformar sus ideas en espacios que no solo cumplen con sus expectativas, sino que las superan.
+'
 isFeatured: true
 ---

@@ -1,8 +1,8 @@
 ---
 id: 'about-01'
-sectionTitle: 'Construimos tus necesidades'
-sectionSubtitle: 'Sobre Nosotros'
-sectionDesc: 'Construction of itself, because it is pain, but <br /> because some proper style design occur in toil and pain pleasure we have expert team'
+sectionTitle: 'Transformamos visiones construyendo'
+sectionSubtitle: 'Sobre Reichstag'
+sectionDesc: 'Nuestra misión es más que construir edificaciones; nos dedicamos a transformar las aspiraciones en realidades concretas. No solo resolvemos necesidades estructurales, sino también sueños, creando espacios que inspiran y perduran en la memoria.'
 image: '/images/about/1-1.jpg'
 alt: 'About Image'
 pattern: '/images/about/pattern.png'

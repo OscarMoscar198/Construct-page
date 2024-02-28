@@ -26,7 +26,7 @@ function ProjectFullwidthPage({
             />
             <ProjectFullwidth projects={projects} />
             <BannerFive bannerTwoItems={bannerTwoItems} />
-            <Newsletter newsletterItems={newsletterItems} />
+            {/* <Newsletter newsletterItems={newsletterItems} /> */}
             <Footer footerItems={footerItems} />
         </>
     );

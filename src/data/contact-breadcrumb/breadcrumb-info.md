@@ -1,5 +1,5 @@
 ---
 breadcrumbSubtitle: 'Contactanos'
-breadcrumbTitle: 'Ponte en Contacto'
-breadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
+breadcrumbTitle: 'Hagamos realidad su Proyecto.'
+breadcrumbDesc: 'Estamos comprometidos en llevar sus ideas a la realidad y construir un futuro sólido juntos.'
 ---

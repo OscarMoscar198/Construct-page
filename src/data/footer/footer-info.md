@@ -2,45 +2,65 @@
 id: 'footer-01'
 footerLogo: '/images/logo/white.png'
 footerLogoAlt: 'Footer Logo'
-excerpt: 'Construction of itself, because it is are  <br/> but because some proper style design is occur in toil and pain pleasure'
+excerpt: 'Forjamos caminos hacia el progreso: Construcción de calidad que transforma realidades. ¡Somos la empresa constructora que tu proyecto necesita!'
 inquary: 'Consultas:'
 inquaryNumber: '+52 81 2340 4908'
-informationTitle: 'Informacion'
+informationTitle: 'Servicios'
 informationList:
     [
-        { id: 'informationList-01', title: 'Nosotros', path: 'about' },
+        {
+            id: 'informationList-01',
+            title: 'Arquitectura',
+            path: 'services/arquitectura',
+        },
         {
             id: 'informationList-02',
-            title: 'Nuestros Servicios',
-            path: 'services',
+            title: 'Ingeniería',
+            path: 'services/arquitectura',
         },
         {
             id: 'informationList-03',
-            title: 'Proyectos Recientes',
-            path: 'projects',
+            title: 'Iluminación',
+            path: 'services/arquitectura',
         },
-        { id: 'informationList-04', title: 'Nuestro Equipo', path: 'our-team' },
-        { id: 'informationList-05', title: 'Contactanos', path: 'contact' },
+        {
+            id: 'informationList-04',
+            title: 'Refrigeración Y Equipos',
+            path: 'services/arquitectura',
+        },
+        {
+            id: 'informationList-05',
+            title: 'Instalaciones Eléctricas',
+            path: 'services/arquitectura',
+        },
+        {
+            id: 'informationList-06',
+            title: 'Montajes Estructurales',
+            path: 'services/arquitectura',
+        },
+        {
+            id: 'informationList-07',
+            title: 'Obra Civil',
+            path: 'services/arquitectura',
+        },
+        {
+            id: 'informationList-08',
+            title: 'Instalaciones Hidrosanitarias',
+            path: 'services/arquitectura',
+        },
     ]
 quickLinkTitle: 'Enlaces rapidos'
-quickLinkList: [
-        {
-            id: 'quickLinkList-01',
-            title: 'Atencion al Cliente',
-            path: 'contact',
-        },
+quickLinkList:
+    [
+        { id: 'quickLinkList-01', title: 'Nosotros', path: 'about' },
         {
             id: 'quickLinkList-02',
-            title: 'Ofertas y Promociones',
-            path: 'about',
+            title: 'Proyectos',
+            path: 'projects/project-fullwidth',
         },
-        {
-            id: 'quickLinkList-03',
-            title: 'Terminos y condiciones',
-            path: 'contact',
-        },
-        { id: 'quickLinkList-04', title: 'Cotizaciones', path: 'contact' },
-        # { id: 'quickLinkList-05', title: 'Clients & Reviews', path: 'about' },
+        { id: 'quickLinkList-03', title: 'Cotizaciones', path: 'contact' },
+        { id: 'quickLinkList-04', title: 'Contacto', path: 'contact' },
+        { id: 'quickLinkList-05', title: 'Aviso de Privacidad', path: '' },
     ]
 contactInfoTitle: 'Informacion de Contacto'
 widgetAddress: 'Retorno 2 Nº 2648 Col. Burocratas Federales | C.P. 64380, <span class="text-primary">Monterrey N.L. México</span>'

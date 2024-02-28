@@ -1,7 +1,7 @@
 ---
 id: 'banner-01'
-title: 'Nuestra Mision'
-excerpt: 'Top rated construction packages we provide page editors now use Lorem as their default model text'
+title: 'Mision'
+excerpt: 'Nuestra misión es liderar con excelencia e innovación, transformando sueños en realidades y contribuyendo al desarrollo sostenible de comunidades y espacios.'
 path: '/projects'
 dataCount: '01'
 dynamicClassName: 'item secondary__bg'

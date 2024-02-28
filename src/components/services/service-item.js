@@ -9,7 +9,8 @@ function ServiceItem({ service }) {
 
     return (
         <div className="service-item">
-            <Link href={linkPath} className={classes.img}>
+            <Link href="/services/arquitectura" className={classes.img}>
+                {/* href={linkPath} */}
                 <img
                     className="img-full"
                     src={imagePath}
@@ -18,13 +19,12 @@ function ServiceItem({ service }) {
             </Link>
             <div className={classes.add__action}>
                 <h2 className="title mb-0">
-                    <Link href={linkPath}>{service?.title}</Link>
+                    <Link href="/services/arquitectura">{service?.title}</Link>
+                    {/* <Link href={linkPath}>{service?.title}</Link> */}
                 </h2>
                 <div className={classes.icon}>
-                    <Link
-                        href="mailto://reichstag.edificaciones@gmail.com"
-                        passHref
-                    >
+                    <Link href="/services/arquitectura">
+                        {/* href={linkPath} */}
                         <IoAddSharp />
                     </Link>
                 </div>

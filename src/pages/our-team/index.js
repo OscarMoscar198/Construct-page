@@ -26,7 +26,7 @@ function OurClients({ teamItemsTwo, newsletterItems, footerItems }) {
             />
             <TeamTwo teamItemsTwo={teamItemsTwo} />
             <CounterTwo />
-            <Newsletter newsletterItems={newsletterItems} />
+            {/* <Newsletter newsletterItems={newsletterItems} /> */}
             <Footer footerItems={footerItems} />
         </>
     );

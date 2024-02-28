@@ -78,7 +78,7 @@ function Header() {
                                             src="/images/header/icon/clock.png"
                                             alt="Phone"
                                         />
-                                        <span>9.00 am - 11.00 pm</span>
+                                        <span>8.00 am - 4.00 pm</span>
                                     </div>
                                 </div>
                             </Col>
@@ -185,78 +185,52 @@ function Header() {
                                                 }
                                             >
                                                 <li>
-                                                    <Link href="/services">
+                                                    <Link href="/services/arquitectura">
                                                         Arquitectura
                                                     </Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="/services">
+                                                    <Link href="/services/arquitectura">
                                                         Ingeniería
                                                     </Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="/services">
+                                                    <Link href="/services/arquitectura">
                                                         Iluminación
                                                     </Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="/services">
+                                                    <Link href="/services/arquitectura">
                                                         Refrigeración y Equipos
                                                     </Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="/services">
+                                                    <Link href="/services/arquitectura">
                                                         Instalaciones Eléctricas
                                                     </Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="/services">
+                                                    <Link href="/services/arquitectura">
                                                         Montajes Estructurales
                                                     </Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="/services">
+                                                    <Link href="/services/arquitectura">
                                                         Obra Civil
                                                     </Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="/services">
+                                                    <Link href="/services/arquitectura">
                                                         Instalaciones
                                                         Hidrosanitarias
                                                     </Link>
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li className={classes.dropdown_holder}>
+                                        <li>
                                             <Link href="/projects/project-fullwidth">
                                                 <span>Proyectos</span>
                                             </Link>
-                                            <ul
-                                                className={
-                                                    classes.dropdown_menu
-                                                }
-                                            >
-                                                <li>
-                                                    <Link href="/projects/project-2-columns">
-                                                        Proyecto 01
-                                                    </Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="/projects/project-gallery">
-                                                        Proyecto 02
-                                                    </Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="/projects/project-slider">
-                                                        Proyecto 03
-                                                    </Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="/projects/project-slider">
-                                                        Proyecto 04
-                                                    </Link>
-                                                </li>
-                                            </ul>
                                         </li>
                                         <li className={classes.dropdown_holder}>
                                             <Link href="/">

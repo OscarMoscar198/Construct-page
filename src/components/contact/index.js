@@ -115,7 +115,7 @@ function Contact({ contactItems }) {
                             <Col lg={{ span: 6 }} className="ps-lg-50">
                                 <div className="map_with__pattern">
                                     <iframe
-                                        title="Oxybuild contact title"
+                                        title="Reichstag contact title"
                                         className="map_size"
                                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1914.3650622967023!2d-100.36355626654573!3d25.707305005563487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8662966513a9244f%3A0xece353a985125e3e!2sNo.%202%202648%2C%20Adolfo%20L%C3%B3pez%20Mateos%2C%2064380%20Monterrey%2C%20N.L.!5e0!3m2!1ses-419!2smx!4v1708674790400!5m2!1ses-419!2smx"
                                     />

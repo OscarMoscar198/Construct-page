@@ -1,7 +1,7 @@
 ---
 id: 'banner-03'
-title: 'Nuestros Valores'
-excerpt: 'Top rated construction packages we provide page editors now use Lorem as their default model text'
+title: 'Valores'
+excerpt: 'Nuestros valores fundamentales son la excelencia, la innovación, la integridad y el compromiso sostenible. '
 path: '/projects'
 dataCount: '03'
 dynamicClassName: 'item secondary__bg'

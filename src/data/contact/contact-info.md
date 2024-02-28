@@ -4,9 +4,10 @@ image: '/images/contact/1-1-510x587.jpg'
 imageAlt: 'Contact Image'
 pattern: '/images/contact/pattern.png'
 patternAlt: 'Contact Pattern'
-subTitle: 'Tienes un proyecto? Comenzemos'
+subTitle: '¿Tienes un proyecto?'
 title: 'Contactanos'
-desc: 'Construction of itself, because it is pain, but because some are proper style design occur in toil and pain pleasure we have a expert team some of the main features..'
+desc: '¡Permítanos ser su socio en el camino hacia el éxito constructivo! 
+¡Contáctenos ahora y dé el primer paso hacia el éxito de su proyecto con Reichstag Edificaciones!'
 addressTitle: 'Direccion de Oficinas'
 addressDesc: 'Retorno 2 Nº 2648 Col. Burocratas Federales | C.P. 64380, Monterrey N.L. México'
 infoTitle: 'Información de Contacto'
@@ -37,8 +38,8 @@ infoList: [
         # },
     ]
 btnText: 'Enviar'
-formTitle: 'Deja un mensaje'
-formDesc: 'El paquete de construcción mejor valorado que obtenemos con placer es simple y fácil de usar.'
+formTitle: '¡Dejenos saber más de su proyecto, envienos un mensaje!'
+formDesc: 'Estamos listos para brindarle la información detallada que necesita para tomar decisiones informadas.'
 mapPattern: '/images/contact/pattern.png'
 mapPatternAlt: 'Map Pattern'
 ---

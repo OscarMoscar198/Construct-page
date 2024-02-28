@@ -17,7 +17,7 @@ function ServiceDetail({
                 <Row className="g-30">
                     <ServiceContent
                         service={service}
-                        richTexts={richTexts}
+                        // richTexts={richTexts}
                         ourServices={ourServices}
                     />
                     <ServiceSidebar

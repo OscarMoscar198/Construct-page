@@ -51,7 +51,7 @@ function AboutPage({
                 testimonialItems={testimonialItems}
                 testimonialSectionItems={testimonialSectionItems}
             />
-            <Newsletter newsletterItems={newsletterItems} />
+            {/* <Newsletter newsletterItems={newsletterItems} /> */}
             <Footer footerItems={footerItems} />
         </>
     );

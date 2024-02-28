@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import Breadcrumb from '../components/breadcrumb';
 import Contact from '../components/contact';
 import Footer from '../components/layout/footer';
-import Newsletter from '../components/newsletter/newsletter';
+// import Newsletter from '../components/newsletter/newsletter';
 import { getAllItems } from '../lib/items-util';
 
 function ContactPage({ contactItems, newsletterItems, footerItems }) {
@@ -17,12 +17,12 @@ function ContactPage({ contactItems, newsletterItems, footerItems }) {
                 />
             </Head>
             <Breadcrumb
-                subTitle="Contactanos"
-                title="Ponte en Contacto"
-                desc="Construction of itself, because it is pain some proper style design occur are pleasure"
+                subTitle="Contáctanos"
+                title="Hagamos realidad su Proyecto."
+                desc="Estamos comprometidos en llevar sus ideas a la realidad y construir un futuro sólido juntos."
             />
             <Contact contactItems={contactItems} />
-            <Newsletter newsletterItems={newsletterItems} />
+            {/* <Newsletter newsletterItems={newsletterItems} /> */}
             <Footer footerItems={footerItems} />
         </>
     );
