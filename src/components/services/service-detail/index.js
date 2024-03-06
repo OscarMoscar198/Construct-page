@@ -11,6 +11,8 @@ function ServiceDetail({
     ourServices,
     servicesSidebar,
 }) {
+    const { data } = ourServices[0];
+    console.log({ data });
     return (
         <div className={classes.area}>
             <Container>
@@ -18,7 +20,7 @@ function ServiceDetail({
                     <ServiceContent
                         service={service}
                         // richTexts={richTexts}
-                        ourServices={ourServices}
+                        ourServices={data}
                     />
                     <ServiceSidebar
                         sidebarList={sidebarList}

@@ -16,13 +16,13 @@ function OurClients({ teamItemsTwo, newsletterItems, footerItems }) {
                 </title>
                 <meta
                     name="description"
-                    content="OxyBuild - Construction React Next JS Template Industry, Products Manufacturing Company, building companies, architecture firms, and the like can take to their advantage by using OxyBuild - Construction React Next JS Template."
+                    content="Descubre la esencia de Reichstag a través de nuestro equipo, una mezcla excepcional de creatividad, experiencia y dedicación que impulsa la innovación en cada proyecto arquitectónico. Conoce a los expertos que dan vida a nuestras visiones y lideran el camino hacia la excelencia en la construcción."
                 />
             </Head>
             <Breadcrumb
                 subTitle="Nuestro Equipo"
                 title="Profesional"
-                desc="Construction of itself, because it is pain some proper style design occur are pleasure"
+                desc="Nuestro equipo de trabajo es la fuerza detrás de la innovación y la excelencia en cada proyecto"
             />
             <TeamTwo teamItemsTwo={teamItemsTwo} />
             <CounterTwo />

@@ -5,8 +5,11 @@ import classes from './index.module.scss';
 import OurServices from './our-services';
 
 function ServiceContent({ service, richTexts, ourServices }) {
-    const imagePath = `/images/services/${service?.slug}/${service?.largeImage}`;
+    // const imagePath = `/images/services/${service?.slug}/${service?.largeImage}`;
+    // console.log({ data, service, item: data?.find(os => os.id == service.our_service_id) })
+    // const data = ourServices[0].data;
 
+    console.log({ ourServices });
     return (
         <Col lg={{ span: 9 }} className="pe-lg-45">
             {/* <div className="banner">
@@ -22,7 +25,13 @@ function ServiceContent({ service, richTexts, ourServices }) {
                 <p className={classes.desc}>{service?.detailDesc}</p>
             </div>
             <RichText richTexts={richTexts} />
-            <OurServices ourServices={ourServices} />
+            <OurServices
+                ourServices={ourServices?.find(
+                    (os) => os.id === service.our_service_id
+                )}
+            />
+
+            {/* <OurServices ourServices={[...ourServicesData.filter(s => s.id == service.ourServices_id)]} /> */}
         </Col>
     );
 }

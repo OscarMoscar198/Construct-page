@@ -6,6 +6,7 @@ largeImage: 'instalaciones_hidrosanitarias_gde.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Provide the best Constructin services for our client with their satisfaction we have expert team, modern equipments and quality materials'
-detailDesc: 'Construction of itself, because it is pain, but because some are proper style design occur in toil and pain pleasure we have a expert team some of the main features pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure...'
+detailDesc: 'En Reichstag, nos especializamos en la creación de infraestructuras hidrosanitarias integrales que cumplen con las más altas expectativas de calidad y seguridad. Desde la implementación de redes de agua potable y servicios que garantizan un suministro confiable, hasta la ingeniería de sistemas de drenaje sanitario que gestiona eficientemente los desechos. Nuestra experiencia se extiende a la planificación y ejecución de sistemas de drenaje pluvial, salvaguardando su propiedad contra inundaciones. Además, ofrecemos soluciones especializadas en sistemas contra incendio, asegurando la protección de su entorno. Confíe en nosotros para construir las bases sólidas que su proyecto requiere, donde cada detalle hidrosanitario se integra para ofrecer resultados duraderos y eficaces.'
 isFeatured: true
+our_service_id: 'our-service-02'
 ---

@@ -13,8 +13,8 @@ function ServiceSidebar({ sidebarList, servicesSidebar }) {
                             {sidebarList?.map((singleList) => (
                                 <li key={singleList.id}>
                                     <Link
-                                        href="/services/arquitectura"
-                                        // href={`/services/${singleList?.slug}`}
+                                        // href="/services/arquitectura"
+                                        href={`/services/${singleList?.slug}`}
                                     >
                                         {singleList?.title}
                                     </Link>

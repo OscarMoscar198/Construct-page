@@ -10,7 +10,6 @@ import Newsletter from '../../components/newsletter/newsletter';
 import Team from '../../components/team';
 import Testimonial from '../../components/testimonial';
 import { getAllItems, getFeaturedItems } from '../../lib/items-util';
-import TimeLine from '../../components/timeline/timeline';
 
 function AboutPage({
     aboutItems,
@@ -38,11 +37,10 @@ function AboutPage({
             <Breadcrumb
                 subTitle="Que Hacemos"
                 title="Sobre Nosotros"
-                desc="Construction of itself, because it is pain some proper style design occur are pleasure"
+                desc="En Reichstag Edificaciones, Transformamos Visiones Construyendo."
             />
             <AboutOne aboutItems={aboutItems} />
             <BannerThree bannerThreeItems={bannerThreeItems} />
-            <TimeLine />
             <CounterTwo />
             <LatestProject
                 projects={projects}

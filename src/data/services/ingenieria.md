@@ -6,6 +6,7 @@ largeImage: 'ingenieria_gde.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Provide the best Constructin services for our client with their satisfaction we have expert team, modern equipments and quality materials'
-detailDesc: 'Construction of itself, because it is pain, but because some are proper style design occur in toil and pain pleasure we have a expert team some of the main features pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure...'
+detailDesc: 'En Reichstag Ingeniería, destacamos en la excelencia técnica ofreciendo servicios integrales para sus proyectos. Nuestro servicio de Topografía y mecánica de suelos establecemos las bases sólidas sobre las cuales construir sus sueños. Apoyados de la Ingeniería civil modelamos entornos urbanos funcionales y estéticos. En el rubro de la Ingeniería mecánica aporta innovación y eficiencia a cada componente. La ingeniería eléctrica ilumina su visión con soluciones energéticas avanzadas. Por último, nuestros servicios en ingeniería para sistemas hidráulicos y neumáticos garantizan un rendimiento fluido y confiable. Confíe en nosotros para dar vida a sus proyectos con precisión y solidez técnica.'
 isFeatured: true
+our_service_id: 'our-service-03'
 ---

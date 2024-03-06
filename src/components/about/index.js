@@ -2,6 +2,7 @@ import PropTypes from 'prop-types';
 import { Col, Container, Row } from 'react-bootstrap';
 import * as FaIcons from 'react-icons/fa';
 import classes from './about.module.scss';
+import TimeLine from '../timeline/timeline';
 
 function AboutOne({ aboutItems }) {
     return (
@@ -42,6 +43,7 @@ function AboutOne({ aboutItems }) {
                                     </div>
                                 </div>
                             </Col>
+
                             <Col lg={{ span: 6 }}>
                                 <div className={classes.content}>
                                     <div className={classes.experience}>
@@ -99,6 +101,7 @@ function AboutOne({ aboutItems }) {
                                 </div>
                             </Col>
                         </Row>
+                        <TimeLine />
                     </Container>
                 );
             })}

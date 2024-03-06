@@ -6,6 +6,7 @@ largeImage: 'iluminacion_gde.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Provide the best Constructin services for our client with their satisfaction we have expert team, modern equipments and quality materials'
-detailDesc: 'Construction of itself, because it is pain, but because some are proper style design occur in toil and pain pleasure we have a expert team some of the main features pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure...'
+detailDesc: 'En Reichstag Iluminación, elevamos complejos residenciales, comerciales e industriales a nuevas alturas luminosas. Nuestros proyectos destacan la elegancia en lo residencial, la identidad en lo comercial y la eficiencia en lo industrial. Desde la iluminación de áreas comunes hasta soluciones personalizadas, fusionamos diseño innovador y tecnología de vanguardia para crear ambientes brillantes y funcionales. Iluminamos su complejo con un enfoque integral, asegurando un equilibrio perfecto entre estética y practicidad para resaltar la singularidad de cada espacio.'
 isFeatured: true
+our_service_id: 'our-service-02'
 ---
