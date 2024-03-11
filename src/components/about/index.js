@@ -101,7 +101,6 @@ function AboutOne({ aboutItems }) {
                                 </div>
                             </Col>
                         </Row>
-                        <TimeLine />
                     </Container>
                 );
             })}

@@ -190,37 +190,37 @@ function Header() {
                                                     </Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="/services/arquitectura">
+                                                    <Link href="/services/ingenieria">
                                                         Ingeniería
                                                     </Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="/services/arquitectura">
+                                                    <Link href="/services/iluminacion">
                                                         Iluminación
                                                     </Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="/services/arquitectura">
+                                                    <Link href="/services/refrigeracion">
                                                         Refrigeración y Equipos
                                                     </Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="/services/arquitectura">
+                                                    <Link href="/services/instalaciones-electricas">
                                                         Instalaciones Eléctricas
                                                     </Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="/services/arquitectura">
+                                                    <Link href="/services/montajes-estructurales">
                                                         Montajes Estructurales
                                                     </Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="/services/arquitectura">
+                                                    <Link href="/services/obra-civil">
                                                         Obra Civil
                                                     </Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="/services/arquitectura">
+                                                    <Link href="/services/insatlaciones-hidrosanitarias">
                                                         Instalaciones
                                                         Hidrosanitarias
                                                     </Link>

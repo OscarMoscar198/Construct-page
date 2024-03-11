@@ -10,6 +10,7 @@ import Newsletter from '../../components/newsletter/newsletter';
 import Team from '../../components/team';
 import Testimonial from '../../components/testimonial';
 import { getAllItems, getFeaturedItems } from '../../lib/items-util';
+import TimeLine from '../../components/timeline/timeline';
 
 function AboutPage({
     aboutItems,
@@ -42,15 +43,16 @@ function AboutPage({
             <AboutOne aboutItems={aboutItems} />
             <BannerThree bannerThreeItems={bannerThreeItems} />
             <CounterTwo />
+            <TimeLine />
             <LatestProject
                 projects={projects}
                 projectSectionItems={projectSectionItems}
             />
             <Team teamItems={teamItems} teamSectionItems={teamSectionItems} />
-            <Testimonial
+            {/* <Testimonial
                 testimonialItems={testimonialItems}
                 testimonialSectionItems={testimonialSectionItems}
-            />
+            /> */}
             {/* <Newsletter newsletterItems={newsletterItems} /> */}
             <Footer footerItems={footerItems} />
         </>

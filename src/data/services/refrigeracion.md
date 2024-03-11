@@ -5,8 +5,8 @@ mediumImage: 'refrigeracion_med.jpg'
 largeImage: 'refrigeracion_gde.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
-detailSubTitle: 'Provide the best Constructin services for our client with their satisfaction we have expert team, modern equipments and quality materials'
-detailDesc: 'Construction of itself, because it is pain, but because some are proper style design occur in toil and pain pleasure we have a expert team some of the main features pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure...'
+detailSubTitle: 'En Reichstag, el servicio de refrigeración y equipos representa la garantía de un ambiente confortable y eficiente en cada proyecto. Nuestro equipo especializado combina conocimientos técnicos y experiencia práctica para diseñar e implementar sistemas de refrigeración eficientes.'
+detailDesc: 'En Reichstag Edificaciones, nuestro servicio de Refrigeración y Equipamiento es un compromiso con la excelencia y la eficiencia en la preservación de ambientes y productos. Con responsabilidad en cada detalle, innovamos en la instalación de sistemas de refrigeración, cámaras frigoríficas, y equipamiento especializado para hoteles, restaurantes, hospitales, escuelas, y más. Nuestro talento humano se refleja en soluciones personalizadas que garantizan ambientes óptimos, asegurando la frescura y la funcionalidad de cada espacio. Confíe en Reichstag para un servicio que va más allá de las expectativas, fusionando innovación y compromiso con resultados de calidad insuperable.'
 isFeatured: true
-our_service_id: 'our-service-02'
+our_service_id: 'our-service-08'
 ---

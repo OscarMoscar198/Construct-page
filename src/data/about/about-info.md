@@ -13,20 +13,20 @@ experienceImage: '/images/about/avatar.png'
 experienceAlt: 'Avatar'
 aboutSubtitle: 'Proporcionando los mejores servicios de construcción para nuestros clientes con su satisfacción.'
 aboutDesc: 'Construyendo no solo estructuras, sino legados. Nuestro equipo prospera no solo en experiencia, sino también en pasión, convirtiendo los desafíos en logros. Descubre algunas de las características principales que nos definen.'
-listItem:
-    [
-        {
-            id: 'listItem-01',
-            listText: 'Construction of itself, because it is pain, but because proper style design occur in toil and pain pleasure',
-        },
-        {
-            id: 'listItem-02',
-            listText: 'Construction of itself, because it is pain, but because proper style design occur in toil and pain pleasure',
-        },
-        {
-            id: 'listItem-03',
-            listText: 'Construction of itself, because it is pain, but because proper style design occur in toil and pain pleasure',
-        },
-    ]
+# listItem:
+#     [
+#         {
+#             id: 'listItem-01',
+#             listText: 'Construction of itself, because it is pain, but because proper style design occur in toil and pain pleasure',
+#         },
+#         {
+#             id: 'listItem-02',
+#             listText: 'Construction of itself, because it is pain, but because proper style design occur in toil and pain pleasure',
+#         },
+#         {
+#             id: 'listItem-03',
+#             listText: 'Construction of itself, because it is pain, but because proper style design occur in toil and pain pleasure',
+#         },
+#     ]
 checkIcon: 'FaCheck'
 ---
