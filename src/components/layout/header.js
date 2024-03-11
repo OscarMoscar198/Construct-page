@@ -232,48 +232,11 @@ function Header() {
                                                 <span>Proyectos</span>
                                             </Link>
                                         </li>
-                                        <li className={classes.dropdown_holder}>
-                                            <Link href="/">
+                                        <li>
+                                            <Link href="/our-clients">
                                                 <span>Clientes</span>
                                             </Link>
-                                            <ul
-                                                className={
-                                                    classes.dropdown_menu
-                                                }
-                                            >
-                                                <li>
-                                                    <Link href="/our-clients">
-                                                        Empresas
-                                                    </Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="/our-clients">
-                                                        Particulares
-                                                    </Link>
-                                                </li>
-                                            </ul>
                                         </li>
-                                        {/* <li className={classes.dropdown_holder}>
-                                            <Link href="/blogs/blog-fullwidth">
-                                                <span>Blogs</span>
-                                            </Link>
-                                            <ul
-                                                className={
-                                                    classes.dropdown_menu
-                                                }
-                                            >
-                                                <li>
-                                                    <Link href="/blogs/blog-leftsidebar">
-                                                        Blog Left Sidebar
-                                                    </Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="/blogs/blog-rightsidebar">
-                                                        Blog Right Sidebar
-                                                    </Link>
-                                                </li>
-                                            </ul>
-                                        </li> */}
                                         <li className={classes.separator}>
                                             <Link href="/contact">
                                                 <span>Contacto</span>

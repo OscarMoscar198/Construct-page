@@ -13,9 +13,13 @@ subTitle: 'Proporcionando los mejores servicios de construcción para nuestros c
 desc: 'Construction of itself, because it is pain, but because some are proper style design occur in toil and pain pleasure we have a expert team some of the main features..'
 listItem:
     [
-        { id: 'listItem-01', checkIcon: 'FaCheck', text: 'Expert Team' },
-        { id: 'listItem-02', checkIcon: 'FaCheck', text: 'Quality Materials' },
-        { id: 'listItem-03', checkIcon: 'FaCheck', text: 'Low Cost' },
-        { id: 'listItem-04', checkIcon: 'FaCheck', text: 'All time Support' },
+        { id: 'listItem-01', checkIcon: 'FaCheck', text: 'Equipo Experto' },
+        { id: 'listItem-02', checkIcon: 'FaCheck', text: 'Alta Calidad' },
+        {
+            id: 'listItem-03',
+            checkIcon: 'FaCheck',
+            text: 'Años de Experiencia',
+        },
+        { id: 'listItem-04', checkIcon: 'FaCheck', text: 'Excelente Soporte' },
     ]
 ---

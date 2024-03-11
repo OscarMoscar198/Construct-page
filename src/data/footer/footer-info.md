@@ -16,37 +16,37 @@ informationList:
         {
             id: 'informationList-02',
             title: 'Ingeniería',
-            path: 'services/arquitectura',
+            path: 'services/ingenieria',
         },
         {
             id: 'informationList-03',
             title: 'Iluminación',
-            path: 'services/arquitectura',
+            path: 'services/iluminacion',
         },
         {
             id: 'informationList-04',
             title: 'Refrigeración Y Equipos',
-            path: 'services/arquitectura',
+            path: 'services/refrigeracion',
         },
         {
             id: 'informationList-05',
             title: 'Instalaciones Eléctricas',
-            path: 'services/arquitectura',
+            path: 'services/instalaciones-electricas',
         },
         {
             id: 'informationList-06',
             title: 'Montajes Estructurales',
-            path: 'services/arquitectura',
+            path: 'services/montajes-estructurales',
         },
         {
             id: 'informationList-07',
             title: 'Obra Civil',
-            path: 'services/arquitectura',
+            path: 'services/obra-civil',
         },
         {
             id: 'informationList-08',
             title: 'Instalaciones Hidrosanitarias',
-            path: 'services/arquitectura',
+            path: 'services/instalaciones-hidrosanitarias',
         },
     ]
 quickLinkTitle: 'Enlaces rapidos'
