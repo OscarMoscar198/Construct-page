@@ -35,10 +35,10 @@ function BannerTwo({ bannerTwoItems }) {
                                     </p>
                                     <div className={classes.hero_btn__wrap}>
                                         <Link
-                                            href="/projects"
+                                            href="/projects/project-fullwidth"
                                             className={`me-20 ${classes.btn} ${classes.btn_primary} ${classes.btn_hover__white}`}
                                         >
-                                            Learn More
+                                            Ver más
                                         </Link>
                                     </div>
                                 </div>

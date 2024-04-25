@@ -69,7 +69,7 @@ function Team({ teamItems, teamSectionItems, settings }) {
                                                 className="img-full"
                                             />
                                             <ul className={classes.add__action}>
-                                                <li
+                                                {/* <li
                                                     className={
                                                         classes.social_link__wrap
                                                     }
@@ -98,7 +98,7 @@ function Team({ teamItems, teamSectionItems, settings }) {
                                                             </Link>
                                                         </li>
                                                     </ul>
-                                                </li>
+                                                </li> */}
                                                 <li
                                                     className={
                                                         classes.mail_link__wrap

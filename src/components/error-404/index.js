@@ -23,7 +23,7 @@ function Error404() {
                                     href="/"
                                     className={`${classes.btn} ${classes.btn_primary} ${classes.btn_hover__secondary}`}
                                 >
-                                    Inicioz
+                                    Inicio
                                 </Link>
                             </div>
                         </div>
